@@ -1,0 +1,15 @@
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\bin\Debug\net6.0\OOTP Lab7.exe
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\bin\Debug\net6.0\OOTP Lab7.deps.json
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\bin\Debug\net6.0\OOTP Lab7.runtimeconfig.json
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\bin\Debug\net6.0\OOTP Lab7.dll
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\bin\Debug\net6.0\ref\OOTP Lab7.dll
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\bin\Debug\net6.0\OOTP Lab7.pdb
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.csproj.AssemblyReference.cache
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.AssemblyInfoInputs.cache
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.AssemblyInfo.cs
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.csproj.CoreCompileInputs.cache
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.dll
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\ref\OOTP Lab7.dll
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.pdb
+C:\Users\den30\source\repos\ООТП\OOTP Lab7\obj\Debug\net6.0\OOTP Lab7.genruntimeconfig.cache
