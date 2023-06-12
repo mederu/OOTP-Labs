@@ -1,0 +1,30 @@
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\bin\Debug\net6.0\Lab.ООТП №1.exe
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\bin\Debug\net6.0\Lab.ООТП №1.deps.json
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\bin\Debug\net6.0\Lab.ООТП №1.runtimeconfig.json
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\bin\Debug\net6.0\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\bin\Debug\net6.0\ref\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\bin\Debug\net6.0\Lab.ООТП №1.pdb
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.csproj.AssemblyReference.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.AssemblyInfoInputs.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.AssemblyInfo.cs
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.csproj.CoreCompileInputs.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\ref\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.pdb
+C:\Users\den30\source\repos\ООТП\Lab.ООТП №1\obj\Debug\net6.0\Lab.ООТП №1.genruntimeconfig.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\bin\Debug\net6.0\Lab.ООТП №1.exe
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\bin\Debug\net6.0\Lab.ООТП №1.deps.json
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\bin\Debug\net6.0\Lab.ООТП №1.runtimeconfig.json
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\bin\Debug\net6.0\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\bin\Debug\net6.0\ref\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\bin\Debug\net6.0\Lab.ООТП №1.pdb
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.csproj.AssemblyReference.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.AssemblyInfoInputs.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.AssemblyInfo.cs
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.csproj.CoreCompileInputs.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\ref\Lab.ООТП №1.dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.pdb
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Factory Method)\obj\Debug\net6.0\Lab.ООТП №1.genruntimeconfig.cache

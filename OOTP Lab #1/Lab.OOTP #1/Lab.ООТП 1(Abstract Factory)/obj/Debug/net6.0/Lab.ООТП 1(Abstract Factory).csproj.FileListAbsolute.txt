@@ -1,0 +1,15 @@
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\bin\Debug\net6.0\Lab.ООТП 1(Abstract Factory).exe
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\bin\Debug\net6.0\Lab.ООТП 1(Abstract Factory).deps.json
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\bin\Debug\net6.0\Lab.ООТП 1(Abstract Factory).runtimeconfig.json
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\bin\Debug\net6.0\Lab.ООТП 1(Abstract Factory).dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\bin\Debug\net6.0\ref\Lab.ООТП 1(Abstract Factory).dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\bin\Debug\net6.0\Lab.ООТП 1(Abstract Factory).pdb
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).AssemblyInfoInputs.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).AssemblyInfo.cs
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).csproj.CoreCompileInputs.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\ref\Lab.ООТП 1(Abstract Factory).dll
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).pdb
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).genruntimeconfig.cache
+C:\Users\den30\source\repos\ООТП\Lab.ООТП 1(Abstract Factory)\obj\Debug\net6.0\Lab.ООТП 1(Abstract Factory).csproj.AssemblyReference.cache
