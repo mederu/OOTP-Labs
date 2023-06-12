@@ -1,0 +1,15 @@
+C:\Users\den30\source\repos\ООТП\TestLab 6\bin\Debug\net6.0\TestLab 6.exe
+C:\Users\den30\source\repos\ООТП\TestLab 6\bin\Debug\net6.0\TestLab 6.deps.json
+C:\Users\den30\source\repos\ООТП\TestLab 6\bin\Debug\net6.0\TestLab 6.runtimeconfig.json
+C:\Users\den30\source\repos\ООТП\TestLab 6\bin\Debug\net6.0\TestLab 6.dll
+C:\Users\den30\source\repos\ООТП\TestLab 6\bin\Debug\net6.0\ref\TestLab 6.dll
+C:\Users\den30\source\repos\ООТП\TestLab 6\bin\Debug\net6.0\TestLab 6.pdb
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.csproj.AssemblyReference.cache
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.AssemblyInfoInputs.cache
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.AssemblyInfo.cs
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.csproj.CoreCompileInputs.cache
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.dll
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\ref\TestLab 6.dll
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.pdb
+C:\Users\den30\source\repos\ООТП\TestLab 6\obj\Debug\net6.0\TestLab 6.genruntimeconfig.cache
